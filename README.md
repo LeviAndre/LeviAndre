@@ -1,4 +1,4 @@
-## Olá, meu nome é André Levi, seja bem vindo ao meu Github!
+## André Levi - Desenvolvedor Full Stack!
 
 <div align="">
  <a href="https://github.com/Lucas-Cussulini">
